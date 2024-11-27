@@ -8,8 +8,8 @@
 ### Gameplay
 1. Players take turns rolling three dice.
 2. Special rules for dice rolls:
-   - **Tuple Out**: If all three dice show the same value, the player "tuples out" and ends their turn with 0 points.
-   - **Fixed Dice**: If two dice show the same value, they are "fixed" and cannot be rerolled.
+   - Tuple Out: If all three dice show the same value, the player "tuples out" and ends their turn with 0 points.
+   - Fixed Dice: If two dice show the same value, they are "fixed" and cannot be rerolled.
 3. Players can reroll unfixed dice as many times as they like or stop to lock in their score.
 
 ### Turn End
