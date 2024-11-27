@@ -21,7 +21,7 @@
 ## Instructions for how to play
 
 ### Running the Game
-1. Save the Python script to a file (e.g., `dice_game.py`).
+1. Save the Python script to a file (e.g., `ConsolidationProject.py`).
 2. Open a terminal or command prompt.
 3. Run the script:
-   python dice_game.py
+   python ConsolidationProject.py
