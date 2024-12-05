@@ -1,3 +1,4 @@
+#adding functions of game
 import random
 import diceRoll
 import tupleOut
