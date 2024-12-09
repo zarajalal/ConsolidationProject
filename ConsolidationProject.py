@@ -3,7 +3,8 @@ import random
 import diceRoll
 import tupleOut
 import fixedDice
-    
+
+ #Creates players turn   
 def player_turn(player, scores):
     print(f"\nPlayer {player + 1}'s turn ==============================================================================================")
     roll = diceRoll.dice_roll()
