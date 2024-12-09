@@ -9,3 +9,4 @@ def fixed_dice(roll):
         return{0, 2}
     else:
         return set()
+#Would like to see test for this function
