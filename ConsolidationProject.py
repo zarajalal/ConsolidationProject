@@ -29,6 +29,7 @@ def player_turn(player, scores):
                 roll[i] = random.randint(1, 6)
         if_fixed = fixedDice.fixed_dice(roll)
 
+#Initial game start and terms
 def game(target_score):
     scores = [0, 0]
     current_player = 0
