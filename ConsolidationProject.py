@@ -1,3 +1,4 @@
+#Initializing variables for game
 import random
 import diceRoll
 import tupleOut
